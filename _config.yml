@@ -24,8 +24,8 @@ description              : "Personal Page"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "mastboard_img.jpg"
-logo                     : "mastboard_img.jpg"
+teaser                   : #"mastboard_img.jpg"
+logo                     : #"mastboard_img.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
