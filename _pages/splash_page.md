@@ -1,7 +1,7 @@
 ---
-title: "Splash Page"
+title: "About Me"
 layout: splash
-permalink: /splash-page/
+permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -9,5 +9,5 @@ header:
   actions:
     - label: "Read more"
       url: "#test-link"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "Some Infos"
 ---
