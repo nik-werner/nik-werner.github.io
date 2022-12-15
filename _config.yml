@@ -134,7 +134,7 @@ author:
 
 # Site Header
 header:
-  image: "mastboard_img.jpg"
+  image: "/assets/images/mastboard_img.jpg"
 
 # Site Footer
 footer:
