@@ -158,6 +158,13 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
 
 # Reading Files
 include:
