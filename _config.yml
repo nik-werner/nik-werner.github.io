@@ -107,7 +107,7 @@ author:
   name             : "Niklas Werner"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "MSc student in Qiong Zhang´s Lab"
-  location         : "Department of Phyiscal Geography, Stockholm University"
+  location         : "Department of Phyiscal Geography,\nStockholm University"
   email            :
   links:
     - label: "Email"
@@ -130,6 +130,7 @@ author:
       # url: "https://instagram.com/"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Niklas-Werner-2"
 
 # Site Footer
 footer:
